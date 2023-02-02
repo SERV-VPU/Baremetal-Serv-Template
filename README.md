@@ -1,7 +1,7 @@
 # Baremetal-Serv-Template
 A simple hello world template program for the SERV demonstrating a working I/O implementation
 
-The standard library printf function is not supported, use printf_ instead. This implementation of printf_ is not our own, CITATION HERE.
+The standard library printf function is not supported, use printf_ instead. This implementation of printf_ is not our own, and is taken from (https://github.com/mpaland/printf)
 
 Compilation command:  
 ```$ make hex```
